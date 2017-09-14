@@ -10,10 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2509bd74-66a6-4654-81ad-06fd10302b9b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/testing_img.jpg" afterPath="$PROJECT_DIR$/src/testing_img.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/PICTURE_GREY_VALUES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/adjusted-nose.blend" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/picture_mod.obj" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/b.jpg" afterPath="$PROJECT_DIR$/src/images/b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/image_processing.py" afterPath="$PROJECT_DIR$/src/_3D_modeler.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/max.jpg" afterPath="$PROJECT_DIR$/src/images/max.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/papi.jpg" afterPath="$PROJECT_DIR$/src/images/papi.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/testing_img.jpg" afterPath="$PROJECT_DIR$/src/images/testing_img.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PICTURE_GREY_VALUES.txt" afterPath="$PROJECT_DIR$/src/PICTURE_GREY_VALUES.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/image_processing.py" afterPath="$PROJECT_DIR$/src/image_processing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,34 +30,69 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/2DImageModeling$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1505236551868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/2DImageModeling$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1505414288621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/2DImageModeling$STANDALONE_modeler.coverage" NAME="STANDALONE_modeler Coverage Results" MODIFIED="1505416395832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="image_processing.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/image_processing.py">
+      <file leaf-file-name="_3D_modeler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_3D_modeler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="451">
+              <caret line="52" column="16" lean-forward="false" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="progress_tracker.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/progress_tracker.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="28" column="3" lean-forward="false" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OBJ_maker.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OBJ_maker.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grey_contraster.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/grey_contraster.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="631">
-              <caret line="97" column="54" lean-forward="false" selection-start-line="97" selection-start-column="54" selection-end-line="97" selection-end-column="54" />
-              <folding />
+              <caret line="42" column="41" lean-forward="false" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="testing_img.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testing_img.jpg">
+        <entry file="file://$PROJECT_DIR$/src/images/testing_img.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PICTURE_GREY_VALUES.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PICTURE_GREY_VALUES.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -78,6 +120,13 @@
         <option value="$PROJECT_DIR$/src/picture_mod.obj" />
         <option value="$PROJECT_DIR$/src/PICTURE_GREY_VALUES.txt" />
         <option value="$PROJECT_DIR$/src/image_processing.py" />
+        <option value="$PROJECT_DIR$/src/main.py" />
+        <option value="$PROJECT_DIR$/src/B&amp;W_contraster.py" />
+        <option value="$PROJECT_DIR$/src/OBJ_maker.py" />
+        <option value="$PROJECT_DIR$/src/progress_tracker.py" />
+        <option value="$PROJECT_DIR$/src/grey_contraster.py" />
+        <option value="$PROJECT_DIR$/src/_3D_modeler.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -124,17 +173,19 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/image_processing.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/progress_tracker.py" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images" />
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -149,7 +200,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Unnamed">
+  <component name="RunManager" selected="Python.STANDALONE_modeler">
+    <configuration name="STANDALONE_modeler" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2DImageModeling" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/OBJ_maker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,19 +232,17 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2DImageModeling" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/image_processing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/progress_tracker.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$/src" PASS_PARENT_ENVS_2="true" EXPLICIT_BUILD_TARGET_NAME="all">
       <envs />
     </configuration>
-    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$/src" PASS_PARENT_ENVS_2="true" RUN_PATH="$PROJECT_DIR$/out" EXPLICIT_BUILD_TARGET_NAME="all">
-      <envs />
-    </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Python.Unnamed" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.STANDALONE_modeler" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Unnamed" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -203,19 +270,20 @@
     <option name="totallyTimeSpent" value="14728000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-4" width="1922" height="1085" extended-state="6" />
+    <frame x="262" y="-4" width="1922" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3058455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1953125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33828208" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33828208" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997879" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -233,33 +301,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/PICTURE_GREY_VALUES.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503370">
-          <caret line="27965" column="1" lean-forward="false" selection-start-line="27965" selection-start-column="1" selection-end-line="27965" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PICTURE_GREY_VALUES.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12191670">
-          <caret line="677315" column="10" lean-forward="true" selection-start-line="677315" selection-start-column="10" selection-end-line="677315" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -278,39 +325,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PICTURE_GREY_VALUES.txt" />
     <entry file="file://$PROJECT_DIR$/makefile" />
-    <entry file="file://$PROJECT_DIR$/src/image_processing.py" />
+    <entry file="file://$PROJECT_DIR$/src/_3D_modeler.py" />
     <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/src/testing_img.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/images/testing_img.jpg" />
     <entry file="file://$PROJECT_DIR$/PICTURE_GREY_VALUES.txt" />
-    <entry file="file://$PROJECT_DIR$/src/testing_img.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/image_processing.py" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/PICTURE_GREY_VALUES.txt" />
-    <entry file="file://$PROJECT_DIR$/src/image_processing.py" />
-    <entry file="file://$PROJECT_DIR$/src/testing_img.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/images/testing_img.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/_3D_modeler.py" />
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/PICTURE_GREY_VALUES.txt" />
-    <entry file="file://$PROJECT_DIR$/src/testing_img.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/image_processing.py" />
+    <entry file="file://$PROJECT_DIR$/src/_3D_modeler.py" />
+    <entry file="file://$PROJECT_DIR$/src/images/testing_img.jpg" />
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/PICTURE_GREY_VALUES.txt" />
-    <entry file="file://$PROJECT_DIR$/src/image_processing.py" />
-    <entry file="file://$PROJECT_DIR$/src/testing_img.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/images/testing_img.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/_3D_modeler.py" />
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/PICTURE_GREY_VALUES.txt" />
-    <entry file="file://$PROJECT_DIR$/src/testing_img.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/image_processing.py" />
+    <entry file="file://$PROJECT_DIR$/src/_3D_modeler.py" />
+    <entry file="file://$PROJECT_DIR$/src/images/testing_img.jpg" />
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/PICTURE_GREY_VALUES.txt" />
-    <entry file="file://$PROJECT_DIR$/src/testing_img.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/image_processing.py" />
+    <entry file="file://$PROJECT_DIR$/src/images/testing_img.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/_3D_modeler.py" />
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/PICTURE_GREY_VALUES.txt" />
-    <entry file="file://$PROJECT_DIR$/src/image_processing.py" />
-    <entry file="file://$PROJECT_DIR$/src/testing_img.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/images/testing_img.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/_3D_modeler.py" />
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/PICTURE_GREY_VALUES.txt" />
+    <entry file="file://$PROJECT_DIR$/src/_3D_modeler.py" />
+    <entry file="file://$PROJECT_DIR$/src/images/testing_img.jpg" />
     <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/PICTURE_GREY_VALUES.txt" />
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt" />
     <entry file="file://$PROJECT_DIR$/PICTURE_GREY_VALUES.txt" />
     <entry file="file://$PROJECT_DIR$/src/__init__.py" />
@@ -329,11 +375,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/testing_img.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PICTURE_GREY_VALUES.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -342,10 +383,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/image_processing.py">
+    <entry file="file://$PROJECT_DIR$/src/images/testing_img.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OBJ_maker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/progress_tracker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="3" lean-forward="false" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grey_contraster.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="631">
-          <caret line="97" column="54" lean-forward="false" selection-start-line="97" selection-start-column="54" selection-end-line="97" selection-end-column="54" />
+          <caret line="42" column="41" lean-forward="false" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_3D_modeler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="52" column="16" lean-forward="false" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
