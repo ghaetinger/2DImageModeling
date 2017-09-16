@@ -50,7 +50,7 @@ def create_obj(matrix, name):
 
     x_size = len(matrix[0])
 
-    obj = open('objects/'+ name + ".obj", 'w+')
+    obj = open('src/objects/'+ name + ".obj", 'w+')
     obj.write(name + '.obj' + '\n' + '#Guilherme Gomes Haetinger' + '\n')
 
     __print_spaces__(obj)
