@@ -11,4 +11,4 @@ The user interface is quite simple. The script only needs **2** informations fro
 * **The input image's name** (the file must be contained by the archive ".../src/images" and the input must contain name extension)
 * **The output file name** (the file will be under the name given y the input + ".obj" in the ".../src/objects" archive)
 
-![UI](/GuilhermeHaetinger/2DImageModeling/blob/master/UI_exemple.png "UI")
+![UI](https://github.com/GuilhermeHaetinger/2DImageModeling/blob/readme-tests/UI_exemple.png "UI")
