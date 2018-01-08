@@ -7,7 +7,7 @@ Another aspiration for the creation and use of this simple script is to turn my 
 
 Use
 --------------
-The execution must be through python interpretation of the file `OBJ_Maker.py` using *python 3.0*. Execution flows as it shows in [the execution exemple](UI).
+The execution must be through python interpretation of the file `OBJ_Maker.py` using *python 3.0*. Execution flows as it shows in the execution exemple.
 
 The user interface is quite simple. The script only needs **2** informations from the users:
 * `The input image's name` (the file must be contained by the archive ".../src/images" and the input must be a ".jpg" file)
