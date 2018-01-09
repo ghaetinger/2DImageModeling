@@ -15,3 +15,15 @@ The user interface is quite simple. The script only needs **2** informations fro
 
 ![UI](https://github.com/GuilhermeHaetinger/2DImageModeling/blob/readme-tests/UI_exemple.png "UI")
 
+Result
+--------------
+The script is an easy executable that gives a fair result. After getting a raw result, improving it by smoothing its surface can turn into something rather good looking.
+
+![Raw Result (left - result, right - picture used)](https://github.com/GuilhermeHaetinger/2DImageModeling/blob/readme-tests/raw-nose.jpeg "Raw nose")
+
+![Improved Result](https://github.com/GuilhermeHaetinger/2DImageModeling/blob/readme-tests/good-nose.jpeg "Improved nose")
+
+Conclusions
+--------------
+The script can be developed to calculate the variation between vertices to stablish a smoother surface with less errors(as I would call them : *mountain peaks*). This could lead to a actually *market worthy* software for artist(mostly 2D artists).
+
