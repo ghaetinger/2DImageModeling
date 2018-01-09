@@ -19,9 +19,9 @@ Result
 --------------
 The script is an easy executable that gives a fair result. After getting a raw result, improving it by smoothing its surface can turn into something rather good looking.
 
-![Raw Result (left - result, right - picture used)](https://github.com/GuilhermeHaetinger/2DImageModeling/raw-nose.jpeg "Raw nose")
+![Raw Result (left - result, right - picture used)](https://github.com/GuilhermeHaetinger/2DImageModeling/blob/master/raw-nose.jpeg "Raw nose")
 
-![Improved Result](https://github.com/GuilhermeHaetinger/2DImageModeling/good-nose.jpeg "Improved nose")
+![Improved Result](https://github.com/GuilhermeHaetinger/2DImageModeling/blob/master/good-nose.jpeg "Improved nose")
 
 Conclusions
 --------------
